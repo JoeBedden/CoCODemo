@@ -85,6 +85,7 @@ struct LoginView: View {
 //                        .foregroundStyle(.white)
 //                        .fontWeight(.bold)
                     }
+                    .padding(.top,20)
 //                    .foregroundColor(.white)
 //                    .frame(width: 300, height: 50)
                     .buttonStyle(CapsuleButtonStyle())
