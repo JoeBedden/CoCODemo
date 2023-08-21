@@ -19,3 +19,5 @@
 ## Setting
 ![simulator_screenshot_3B9DBFF4-1147-453A-87CC-069C3F4BFD5C](https://github.com/JoeBedden/CoCODemo/assets/86072232/31c7610d-2252-4049-83b1-33c90b9b6ead)
 Setting下的每个button(Bookmark, Feedback, Setting, Privacy, My Doc,My Profile)都有二级界面(每个Button通过NavigationLink导向对应的View），二级界面比较草率，就是图片和文字
+# 运行效果：
+https://youtu.be/wHmh-vS7orE
