@@ -10,8 +10,10 @@ import SwiftUI
 struct ProfileView: View {
     var body: some View {
         VStack{
-            Image("用户信息")
-            Text("Profile")
+         Image("bc")
+                .resizable()
+                .aspectRatio(contentMode: .fill)
+                .ignoresSafeArea()
         }
     }
 }
